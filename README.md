@@ -1,14 +1,16 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Technique%20as%20a%20tool&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Tech%20as%20a%20tool&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<h3 align="center">🎯 Focus</h3>
 <div align='center'>
-  <p>✅기술로 세상의 문제를 해결하는데 관심있습니다.</p>
-  <p>✅많은 사람들이 기술의 혜택을 누려야 한다고 생각합니다.</p>
-  <p>✅필요에 의해 기술을 사용합니다.</p>
+  <p>✅I'm interested in solving the world's problems with technology.</p>
+  <p>✅I believe that many people should benefit from technology.</p>
+  <p>✅I use technology as needed.</p>
 </div>
 <br/>
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+<h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -27,7 +29,7 @@
 </div>
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&color=black" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-%257F52FF?style=for-the-badge&logo=kotlin&color=black" />&nbsp
@@ -35,7 +37,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🤝 Cooperation</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -44,7 +46,7 @@
 </div>
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://developing-mind.tistory.com/">
     <img src="https://img.shields.io/badge/tistory-%23000000?style=for-the-badge&logo=tistory"/>

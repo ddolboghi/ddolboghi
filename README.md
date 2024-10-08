@@ -31,8 +31,8 @@
 
 <h3 align="center">📚 Studying</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&color=black" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-%257F52FF?style=for-the-badge&logo=kotlin&color=black" />&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />&nbsp
+  
 </div>
 
 <br>
